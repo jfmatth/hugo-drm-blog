@@ -1,1 +1,2 @@
 NGINX_SERVER_NAME=blog.drmatthew.org,drmatthew.org
+NGINX_INCLUDE_FILE=nginx.conf
