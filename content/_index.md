@@ -27,7 +27,7 @@ subtitle : ""
 
 
 ***
-# Recent Pojects 
+# Recent Projects 
 ***
 
 
