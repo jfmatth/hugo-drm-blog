@@ -24,7 +24,8 @@ serviceAccount:
   # If not set and create is true, a name is generated using the fullname template
   name: ""
 
-podAnnotations: {}
+podAnnotations:
+  ad.datadoghq.com/nginx.logs: '[{"source":"nginx","service":"nginx"}]'
 
 podLabels:
     tags.datadoghq.com/env: "production"
