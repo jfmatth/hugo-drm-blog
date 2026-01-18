@@ -1,6 +1,6 @@
 apiVersion: v2
-name: hugo
-description: A Helm chart for justneverlift.com site
+name: drblog
+description: A Helm chart for Daniels Blog
 
 # A chart can be either an 'application' or a 'library' chart.
 #

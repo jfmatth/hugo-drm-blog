@@ -1,5 +1,9 @@
 name: build_image
 
+permissions:
+  contents: read
+  packages: write
+
 on:
   push:
     branches:
