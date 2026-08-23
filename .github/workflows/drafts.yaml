@@ -45,4 +45,4 @@ jobs:
             context: .
             push: false
             tags: |
-              ghcr.io/${{ github.repository }}:${{ steps.define_version.outputs.VER }}
+              ghcr.io/${{ github.repository }}:${{ steps.define_version.outputs.VER }}D
