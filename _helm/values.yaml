@@ -96,12 +96,11 @@ httpRoute:
     
   parentRefs:
   - name: traefik-gateway
-    sectionName: drmblog-test-https
+    sectionName: drmblog-https
     namespace: traefik  # Hostnames matching HTTP header.
   
   hostnames:
-  - test.drmatthew.org
-  - drmatthew.org
+    - drmatthew.org
   
   # List of rules and filters applied.
   rules:
