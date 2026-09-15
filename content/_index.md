@@ -21,6 +21,8 @@ subtitle : ""
 
 ***
 
+## Skillset and Portfolio Categories
+
 
 # [Click to Browse Project Categories]({{< ref "/tags" >}} "Project Categories")
 
